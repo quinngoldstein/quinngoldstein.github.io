@@ -54,7 +54,7 @@ linkedin_username: quinn-goldstein
 about_profile_image: 
 about_content: | # this will include new lines to allow paragraphs
   My name is Quinn Goldstein. I am a computer science major at [Seattle University](https://www.seattleu.edu/scieng/computer-science/).
-  I expect to graduate in June 2023. Please feel free to reach out to me at my email above.
+  I expect to graduate in June 2023. Please feel free to reach out at my email above.
 
 content:
   - title: Education
@@ -70,27 +70,27 @@ content:
           I have primarily worked with C++ and C# in these courses.
           I plan to have coursework on databases and algorithms by summer 2022.
           My cumulative GPA is 3.82.
-  - title: Experience
-    layout: list
-    content:
-      - layout: left
-        title: The Children's House
-        sub_title: Afternoon Assistant
-        caption: August 2020 - September 2021
-        # link: Link to company (optional)
-        # quote: >
-        #   Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
-    - layout: left
-        title: Honolulu Star-Advertiser
-        sub_title: Special to the Star-Advertiser
-        caption: October 2019 - March 2021
-        link: Link to company (optional)
-        # quote: >
-        #   Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+  # - title: Experience
+  #   layout: list
+  #   content:
+  #     - layout: left
+  #       title: The Children's House
+  #       sub_title: Afternoon Assistant
+  #       caption: August 2020 - September 2021
+  #       # link: Link to company (optional)
+  #       # quote: >
+  #       #   Short description of the company (optional)
+  #       description: | # this will include new lines to allow paragraphs
+  #         Description of role
+  #   - layout: left
+  #       title: Honolulu Star-Advertiser
+  #       sub_title: Special to the Star-Advertiser
+  #       caption: October 2019 - March 2021
+  #       link: Link to company (optional)
+  #       # quote: >
+  #       #   Short description of the company (optional)
+  #       description: | # this will include new lines to allow paragraphs
+  #         Description of role
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:

@@ -136,3 +136,5 @@ exclude : [
   "scripts/",
   "docker-compose.yml",
   ]
+
+theme: jekyll-theme-minimal

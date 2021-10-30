@@ -54,26 +54,21 @@ about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   My name is Quinn Goldstein. I am a computer science major at [Seattle University](https://www.seattleu.edu/scieng/computer-science/).
   I expect to graduate in June 2023. Please feel free to reach out to me at my email above.
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
+      - layout: left
+        title: Seattle University
+        sub_title: B.S. in Computer Science
+        caption: September 2019 - June 2023
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          I am a member of Seattle U's Hui O Nani Hawaii Club and its ACM Club. In my course work,
+          I have studied data structures and object-oriented programming and design.
+          I have primarily worked with C++ and C# in these courses.
+          I plan to have coursework on databases and algorithms by summer 2022.
+          My cumulative GPA is 3.82.
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -92,8 +87,8 @@ content:
           Variation on classic chess
         description: | # this will include new lines to allow paragraphs
           My group was challenged to create a variation of a board game for
-          the 2021 hacking event with Seattle University's ACM.
-          We developed War Chess, a variation on chess with landscapes on a
+          the spring 2021 hacking event with Seattle University's ACM.
+          We used Java to develop War Chess, a variation on chess with landscapes on a
           larger board. I handled some of the logic design for the pieces as
           well as basic asset design for the UI.
       - layout: left

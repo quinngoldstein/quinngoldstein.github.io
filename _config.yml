@@ -117,6 +117,8 @@ content:
           well as basic asset design for the UI.
       - layout: left
         title: Resume Website
+        link: https://github.com/quinngoldstein/quinngoldstein.github.io
+        link_text: Github Repository
         description: |
           Used Github and open sourced code to create resume website with
           HTML, CSS.

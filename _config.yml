@@ -97,8 +97,8 @@ content:
       - layout: left
         title: Resume Website
         description: |
-        Used Github and open sourced code to create resume website with
-        HTML, CSS.
+          Used Github and open sourced code to create resume website with
+          HTML, CSS.
   - title: Experience
     layout: list
     content:

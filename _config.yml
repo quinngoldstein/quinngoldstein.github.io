@@ -69,6 +69,27 @@ content:
           I have primarily worked with C++ and C# in these courses.
           I plan to have coursework on databases and algorithms by summer 2022.
           My cumulative GPA is 3.82.
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: Company name
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+    - layout: right
+        title: Company name
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -96,24 +117,21 @@ content:
         description: |
           Used Github and open sourced code to create resume website with
           HTML, CSS.
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
-  - title: A Little More About Me
+  - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      The primary languages I have used in my education are **C++ and C#**. I have some experience
+      with **Python** after self-teaching. I am comfortable with the **Microsoft Office** applications
+      as well as the **Google applications**. I am a **quick learner** that can adapt to any situation
+      and will rise to a challenge rather than back away from one. Some of my technical strengths are
+      my **math ability** and my **strong understanding of logic**.
+  - title: More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      I am an avid movie watcher and have watched countless movies during the pandemic. You can see some of
+      my favorite films at my [Letterboxd](https://letterboxd.com/quinngold/). I am also a huge sports fan
+      and enjoy watching all kinds of sports. In my free time, I like to play video games with friends and
+      find good eateries around me.
 
 # Footer
 footer_show_references: true

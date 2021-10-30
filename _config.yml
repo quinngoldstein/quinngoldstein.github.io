@@ -76,7 +76,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Seattle University ACM Hacking Challenge - War Chess
+        title: Seattle U ACM Hacking - War Chess
         # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         # link_text: Link Text
         # additional_links:
@@ -86,7 +86,7 @@ content:
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
+        caption: >
           Variation on classic chess
         description: | # this will include new lines to allow paragraphs
           My group was challenged to create a variation of a board game for

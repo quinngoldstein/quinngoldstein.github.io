@@ -73,22 +73,22 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+      - layout: left
+        title: The Children's House
+        sub_title: Afternoon Assistant
+        caption: August 2020 - September 2021
+        # link: Link to company (optional)
+        # quote: >
+        #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
-    - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
+    - layout: left
+        title: Honolulu Star-Advertiser
+        sub_title: Special to the Star-Advertiser
+        caption: October 2019 - March 2021
         link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+        # quote: >
+        #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
   - title: Projects # Title for the section

@@ -70,40 +70,18 @@ content:
           I have primarily worked with C++ and C# in these courses.
           I plan to have coursework on databases and algorithms by summer 2022.
           My cumulative GPA is 3.82.
-  - title: Education
+  - title: Work Experience
     layout: list
     content:
       - layout: left
-        title: Seattle University
-        sub_title: B.S. in Computer Science
-        caption: September 2019 - June 2023
+        title: The Children's House
+        sub_title: Afternoon Assistant
+        caption: August 2020 - September 2021
         description: | # this will include new lines to allow paragraphs
-          I am a member of Seattle U's Hui O Nani Hawaii Club and its ACM Club. In my course work,
-          I have studied data structures and object-oriented programming and design.
-          I have primarily worked with C++ and C# in these courses.
-          I plan to have coursework on databases and algorithms by summer 2022.
-          My cumulative GPA is 3.82.
-  # - title: Experience
-  #   layout: list
-  #   content:
-  #     - layout: left
-  #       title: The Children's House
-  #       sub_title: Afternoon Assistant
-  #       caption: August 2020 - September 2021
-  #       # link: Link to company (optional)
-  #       # quote: >
-  #       #   Short description of the company (optional)
-  #       description: | # this will include new lines to allow paragraphs
-  #         Description of role
-  #   - layout: left
-  #       title: Honolulu Star-Advertiser
-  #       sub_title: Special to the Star-Advertiser
-  #       caption: October 2019 - March 2021
-  #       link: Link to company (optional)
-  #       # quote: >
-  #       #   Short description of the company (optional)
-  #       description: | # this will include new lines to allow paragraphs
-  #         Description of role
+          Description
+      - layout: left
+        title: Honolulu Star-Advertiser
+        sub_title: Special to the Star-Advertiser
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:

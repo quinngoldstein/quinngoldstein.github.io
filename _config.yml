@@ -52,6 +52,8 @@ linkedin_username: quinn goldstein
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
+  My name is Quinn Goldstein. I am a computer science major at [Seattle University](https://www.seattleu.edu/scieng/computer-science/).
+  I expect to graduate in June 2023. Please feel free to reach out to me at my email above.
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as

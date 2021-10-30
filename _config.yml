@@ -51,7 +51,7 @@ linkedin_username: quinn-goldstein
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: "images/profilepic.jpeg"
+about_profile_image: images/landscape-trees.jpg
 about_content: | # this will include new lines to allow paragraphs
   My name is Quinn Goldstein. I am a computer science major at [Seattle University](https://www.seattleu.edu/scieng/computer-science/).
   I expect to graduate in June 2023. Please feel free to reach out to me at my email above.

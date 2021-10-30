@@ -78,10 +78,21 @@ content:
         sub_title: Afternoon Assistant
         caption: August 2020 - September 2021
         description: | # this will include new lines to allow paragraphs
-          Description
+          I worked at a school during the COVID-19 pandemic and was able to give back to my community
+          as I attended this school in my youth. I conducted daily sanitization of high-touch
+          areas like playgrounds and eating areas. I also helped to direct traffic during high-volume
+          times like pickup and dropoff for students as well as help with projects around campus
+          like plant tending and classroom setup for teachers.
       - layout: left
         title: Honolulu Star-Advertiser
         sub_title: Special to the Star-Advertiser
+        caption: October 2019 - March 2020
+        description: |
+          I worked with the head local newspaper to compile statistics from college sports on a weekly basis.
+          I conducted this individual work remotely and met deadlines for my supervisor.
+          While I mostly wrote weekly short sections, I was able to write my own article after conducting
+          an interview with an athlete. This article is available
+          [here](https://www.staradvertiser.com/2019/11/13/sports/hawaii-grown/hawaii-grown-hawaii-girls-chase-college-cup/).
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -123,7 +134,8 @@ content:
       I am an avid movie watcher and have watched countless movies during the pandemic. You can see some of
       my favorite films at my [Letterboxd](https://letterboxd.com/quinngold/). I am also a huge sports fan
       and enjoy watching all kinds of sports. In my free time, I like to play video games with friends and
-      find good eateries around me.
+      find good eateries around me. You can also find me always listening to music, and I enjoy listening
+      to almost any genre.
 
 # Footer
 footer_show_references: false

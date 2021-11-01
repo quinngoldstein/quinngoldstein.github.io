@@ -121,7 +121,7 @@ content:
         link: https://github.com/quinngoldstein/quinngoldstein.github.io
         link_text: Github Repository
         description: |
-          Used Github and open sourced code to create resume website with
+          Used Github and open source code to create resume website with
           HTML, CSS.
   - title: Skills
     layout: text

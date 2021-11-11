@@ -123,6 +123,17 @@ content:
         description: |
           Used Github and open source code to create resume website with
           HTML, CSS.
+      - layout: left
+        title: Scorigami Calculator
+        link: https://github.com/quinngoldstein/ScorigamiCalculator
+        link_text: Github Repository
+        caption: >
+          Calculator for NFL scores
+        description: |
+          I created a calculator to calculate what kind of scoring would be necessary
+          for NFL scoring since American football uses an odd scoring system.
+          This was inspired by Scorigami, which you can learn more about at
+          [this](https://nflscorigami.com/) site here, or reach out to me!
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs

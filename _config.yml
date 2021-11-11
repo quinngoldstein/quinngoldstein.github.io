@@ -120,6 +120,10 @@ content:
         title: Resume Website
         # link: https://github.com/quinngoldstein/quinngoldstein.github.io
         # link_text: Github Repository
+        additional_links:
+          - title: Github page for project
+            icon: fab fa-github
+            url: https://github.com/quinngoldstein/quinngoldstein.github.io
         description: |
           Used Github and open source code to create resume website with
           HTML, CSS.
@@ -134,10 +138,12 @@ content:
         caption: >
           Calculator for NFL scores
         description: |
-          I created a calculator to calculate what kind of scoring would be necessary
-          for NFL scoring since American football uses an odd scoring system.
-          This was inspired by Scorigami, which you can learn more about at
-          [this](https://nflscorigami.com/) site here, or reach out to me!
+          This Python application is a calculator to calculate what kind 
+          of scoring would be necessary or NFL scoring since American football 
+          uses an odd scoring system. This was inspired by Scorigami, which you 
+          can check out [here](https://nflscorigami.com/), or reach out to me!
+          The concept of Scorigami is something I am very interested in, 
+          along with other sport statistics.
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs

@@ -101,10 +101,10 @@ content:
         title: Seattle U ACM Hacking War Chess
         # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         # link_text: Link Text
-        # additional_links:
-        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #     icon: fab fa-github
-        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        additional_links:
+          - title:  Github page for project
+            icon: fab fa-github
+            url: https://github.com/quinngoldstein/WarChess
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -156,7 +156,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       I am an avid movie watcher and have watched countless movies during the pandemic. You can see some of
-      my favorite films at my [Letterboxd](https://letterboxd.com/quinngold/). I am also a huge sports fan
+      my favorite films at my [Letterboxd](https://letterboxd.com/quinngold/). I also enjoy watching TV shows, 
+      with some of my favorites including Jeopardy!, Seinfeld, and Twin Peaks. I am also a huge sports fan
       and enjoy watching all kinds of sports. In my free time, I like to play video games with friends and
       find good eateries around me. You can also find me always listening to music, and I enjoy listening
       to almost any genre.

@@ -101,10 +101,10 @@ content:
         title: Seattle U ACM Hacking War Chess
         # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         # link_text: Link Text
-        additional_links:
-          - title:  Github page for project
-            icon: fab fa-github
-            url: https://github.com/quinngoldstein/WarChess
+        # additional_links:
+        #   - title:  Github page for project
+        #     icon: fab fa-github
+        #     url: https://github.com/quinngoldstein/WarChess
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)

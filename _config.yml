@@ -70,7 +70,7 @@ content:
           I have studied data structures and object-oriented programming and design.
           I have primarily worked with C++ and C# in these courses.
           I plan to have coursework on databases and potentially algorithms by summer 2022.
-          My cumulative GPA is 3.82.
+          My cumulative GPA is 3.83.
   - title: Work Experience
     layout: list
     content:
@@ -99,6 +99,10 @@ content:
     content:
       - layout: left
         title: Seattle U ACM Hacking War Chess
+        additional_links:
+          - title: Github page for project
+            icon: fab fa-github
+            url: https://github.com/quinngoldstein/quinngoldstein.github.io
         # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         # link_text: Link Text
         # additional_links:

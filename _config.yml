@@ -148,6 +148,19 @@ content:
           can check out [here](https://nflscorigami.com/), or reach out to me!
           The concept of Scorigami is something I am very interested in, 
           along with other sport statistics.
+      - layout: left
+        title: Movie Database Application
+        caption: >
+          Database for movie information
+        description: |
+          This project is currently in development. Working with a partner, we
+          plan to develop a database using SQL among other database tools as well
+          as an application for the database that allows users to search for movies
+          on specific streaming services. I came up with this idea after having the
+          recurring issue of not knowing what to watch on Netflix, Hulu, and other
+          streaming sites, so I hoped to remedy the problem by designing this app
+          for a course I am currently enrolled in as of Seattle University's 2022
+          winter quarter.
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs

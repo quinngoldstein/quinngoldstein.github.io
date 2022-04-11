@@ -67,10 +67,13 @@ content:
         caption: September 2019 - June 2023
         description: | # this will include new lines to allow paragraphs
           I am a member of Seattle U's Hui O Nani Hawaii Club and its ACM Club. In my course work,
-          I have studied data structures and object-oriented programming and design.
-          I have primarily worked with C++ and C# in these courses.
-          I plan to have coursework on databases and potentially algorithms by summer 2022.
-          My cumulative GPA is 3.83.
+          I have studied data structures and object-oriented programming and design. I have also taken
+          courses on databases and am currently taking courses on learning programming languages and a
+          course on machine learning.
+          I have primarily worked with C++ and C# in these courses. I also have some experience with
+          Python and have worked with machine learning models using Python's scikit module.
+          I plan to complete my coursework with machine learning by summer 2022.
+          My cumulative GPA is 3.85.
   - title: Work Experience
     layout: list
     content:
@@ -153,22 +156,32 @@ content:
         caption: >
           Database for movie information
         description: |
-          This project is currently in development. Working with a partner, we
-          plan to develop a database using SQL among other database tools as well
-          as an application for the database that allows users to search for movies
+          Working with a partner, we developed a database using MySQL and
+          an application for the database that allows users to search for movies
           on specific streaming services. I came up with this idea after having the
           recurring issue of not knowing what to watch on Netflix, Hulu, and other
           streaming sites, so I hoped to remedy the problem by designing this app
-          for a course I am currently enrolled in as of Seattle University's 2022
-          winter quarter.
+          for a course at Seattle University. For the web app, we used PHP, HTML, 
+          and CSS to design the webpage and add some base functionality for the project. 
+          The web application is no longer active on the university server, but I
+          have the source code for future reference.
+      - layout: left
+        title: Machine Learning Project
+        caption: >
+          Prediction for housing data in King County, WA
+        description: |
+          With a partner, we plan to create a model for machine learning to predict
+          housing prices of homes in King County, Washington. We are still in the process
+          of building this project but updates will be posted here as we progress.
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
       The primary languages I have used in my education are **C++ and C#**. I have some experience
-      with **Python** after self-teaching. I am comfortable with the **Microsoft Office** applications
-      as well as the **Google applications**. I am a **quick learner** that can adapt to any situation
-      and will rise to a challenge rather than back away from one. Some of my technical strengths are
-      my **math ability** and my **strong understanding of logic**.
+      with **Python** after self-teaching and taking two courses with Python. I am comfortable with
+      the **Microsoft Office** applications as well as the **Google applications**. I am a **quick
+      learner** that can adapt to any situation and will rise to a challenge rather than back away
+      from one. Some of my technical strengths are my **math ability** and my **strong understanding
+      of logic**.
   - title: More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs

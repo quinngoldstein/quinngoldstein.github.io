@@ -78,9 +78,37 @@ content:
     layout: list
     content:
       - layout: left
+        title: Seattle University
+        sub_title: Student Grader
+        caption: |
+          March 2023 - June 2023
+          Seattle, WA
+        description: | # this will include new lines to allow paragraphs
+          In my final quarter at Seattle University, I took on a position of being a grader for CPSC 3200,
+          the university's object-oriented programming course. This is a junior level course. I graded
+          student programs based on their design of classes and ability to execute as outlined by the
+          professor. These programs were written in C++ and C#. Working with a group of four other graders,
+          we also considered adjustments to the professor's rubrics if we saw change necessary.
+      - layout: left
+        title: Expedia Group
+        sub_title: UX Engineering Intern
+        caption: |
+          June 2022 - August 2022
+          Seattle, WA
+        description: | # this will include new lines to allow paragraphs
+          Following my junior year, I interned with Expedia Group as a software development engineering
+          intern and worked with a team of front-end and user experience engineers to support other teams.
+          In my experience, I worked with React, TypeScript, and a small amount of GraphQL. I collaborated
+          with an intern on another team to fix front-end bugs on various components in React. These bugs
+          mostly involved accessibility issues like screen readers failing or language errors. Throughout
+          my ten weeks in the program, I worked on a research project to investigate version updates to the
+          company's codebase and consider alternatives to company norms.
+      - layout: left
         title: The Children's House
         sub_title: Afternoon Assistant
-        caption: August 2020 - September 2021
+        caption: | 
+          August 2020 - September 2021
+          Pearl City, HI
         description: | # this will include new lines to allow paragraphs
           I worked at a school during the COVID-19 pandemic and was able to give back to my community
           as I attended this school in my youth. I conducted daily sanitization of high-touch
@@ -90,7 +118,9 @@ content:
       - layout: left
         title: Honolulu Star-Advertiser
         sub_title: Special to the Star-Advertiser
-        caption: October 2019 - March 2020
+        caption: |
+          October 2019 - March 2020
+          Honolulu, HI, remote
         description: |
           I worked with the head local newspaper to compile statistics from college sports on a weekly basis.
           I conducted this individual work remotely and met deadlines for my supervisor.
@@ -167,21 +197,31 @@ content:
           have the source code for future reference.
       - layout: left
         title: Machine Learning Project
+        additional_links:
+          - title: Github page for project
+            icon: fab fa-github
+            url: https://github.com/quinngoldstein/CPSC4310-MLP
         caption: >
           Prediction for housing data in King County, WA
         description: |
-          With a partner, we plan to create a model for machine learning to predict
-          housing prices of homes in King County, Washington. We are still in the process
-          of building this project but updates will be posted here as we progress.
+          With a partner, we created a model for machine learning to predict housing prices
+          of homes in King County, Washington. Using a dataset on home prices in
+          Washington's King County, we trained a machine learning model to predict whether the
+          price of a given home would be above or below a price threshold. We used various ML
+          algorithms like k-nearest neighbor and the random forest classifier. This was done
+          using Python in Jupyter Notebook and various libraries like pandas, numpy, scikit,
+          and tensorflow. The GitHub repository linked contains notebooks of training the model
+          and the analyses my partner and I completed.
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      The primary languages I have used in my education are **C++ and C#**. I have some experience
-      with **Python** after self-teaching and taking two courses with Python. I am comfortable with
-      the **Microsoft Office** applications as well as the **Google applications**. I am a **quick
-      learner** that can adapt to any situation and will rise to a challenge rather than back away
-      from one. Some of my technical strengths are my **math ability** and my **strong understanding
-      of logic**.
+      The primary languages I have used in my education are **C++, C# and Python**. In my internship, I
+      have worked with **TypeScript, HTML, and CSS/SASS in React**. I am comfortable with the
+      **Microsoft Office** suite as well as the **Google applications**. In the workplace, I have used
+      both Slack and Microsoft Teams for collaboration. I am a **quick learner** that can adapt to any
+      situation and will rise to a challenge rather than back away from one. Other technical strengths
+      of mine are my **math ability** and my **strong understanding of logic**. I consider myself above
+      average at **technical writing** and pride myself on being an **effective communicator**.
   - title: More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs

@@ -67,12 +67,11 @@ content:
         caption: September 2019 - June 2023
         description: | # this will include new lines to allow paragraphs
           I am a member of Seattle U's Hui O Nani Hawaii Club and its ACM Club. In my course work,
-          I have studied data structures and object-oriented programming and design. I have also taken
-          courses on databases and am currently taking courses on learning programming languages and a
-          course on machine learning.
-          I have primarily worked with C++ and C# in these courses. I also have some experience with
-          Python and have worked with machine learning models using Python's scikit module.
-          I plan to complete my coursework with machine learning by summer 2022.
+          I have studied data structures, databases, object-oriented programming and design, machine learning,
+          UX design, cyber security concepts, and artificial intelligence. As part of my senior year,
+          I am currently working on a project with a Seattle-based start up company. More information on
+          that can be found below, or you can reach out to me.
+          I have primarily worked with C++, C#, and Python in these courses.
           My cumulative GPA is 3.831.
   - title: Work Experience
     layout: list
@@ -131,6 +130,85 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: UX Design Project
+        sub_title: Study room reservations application mockup
+        additional_links:
+          - title: Figma page
+            icon: fab fa-figma
+            url: https://www.figma.com/proto/5Kl0lbRF8aWW8iSYR6kSdZ/TP8%3A-High-fidelity-prototype?node-id=115-973&starting-point-node-id=123%3A1047
+        caption: >
+          September - December 2022
+        description: |
+          Working in a group of four, my team used Figma to develop a prototype of a mobile app
+          for Seattle University students to reserve study rooms on campus. The idea came about
+          when one of my team members wanted to study in the library but found that no rooms were
+          open. We designed the application interface from the ground up, down to the fonts and
+          color palette. I enjoyed working with Figma and liked learning about the design process
+          needed before a product goes to software engineers. The link on the left takes you to
+          the semi-interactive prototype of this application via Figma.
+      - layout: left
+        title: Machine Learning Project
+        sub_title: Prediction for housing data in King County, WA
+        additional_links:
+          - title: GitHub page for project
+            icon: fab fa-github
+            url: https://github.com/quinngoldstein/CPSC4310-MLP
+        caption: >
+          April - June 2022
+        description: |
+          With a partner, we created a model for machine learning to predict housing prices
+          of homes in King County, Washington. Using a dataset on home prices in
+          Washington's King County, we trained a machine learning model to predict whether the
+          price of a given home would be above or below a price threshold. We used various ML
+          algorithms like k-nearest neighbor and the random forest classifier. This was done
+          using Python in Jupyter Notebook and various libraries like pandas, numpy, scikit,
+          and tensorflow. The GitHub repository linked contains notebooks of training the model
+          and the analyses my partner and I completed.
+      - layout: left
+        title: Movie Database Application
+        sub_title: Database for movie information
+        caption: >
+          January - March 2022
+        description: |
+          Working with a partner for a database class, we developed a database using MySQL and
+          an application for the database that allows users to search for movies
+          on specific streaming services. I came up with this idea after having the
+          recurring issue of not knowing what to watch on Netflix, Hulu, and other
+          streaming sites, so I hoped to remedy the problem by designing this app
+          for a course at Seattle University. For the web app, we used PHP, HTML, 
+          and CSS to design the webpage and add some base functionality for the project. 
+          The web application is no longer active on the university server, but I
+          have the source code for future reference.
+      - layout: left
+        title: Scorigami Calculator
+        sub_title: Calculator for NFL scores
+        # link: https://github.com/quinngoldstein/ScorigamiCalculator
+        # link_text: GitHub Repository
+        additional_links:
+          - title: GitHub page for project
+            icon: fab fa-github
+            url: https://github.com/quinngoldstein/ScorigamiCalculator
+        caption: >
+          November 2021
+        description: |
+          This Python application is a calculator to calculate what kind 
+          of scoring would be necessary or NFL scoring since American football 
+          uses an odd scoring system. This was inspired by Scorigami, which you 
+          can check out [here](https://nflscorigami.com/), or reach out to me!
+          The concept of Scorigami is something I am very interested in, 
+          along with other sport statistics.
+      - layout: left
+        title: Resume Website
+        # link: https://github.com/quinngoldstein/quinngoldstein.github.io
+        # link_text: GitHub Repository
+        additional_links:
+          - title: GitHub page for project
+            icon: fab fa-github
+            url: https://github.com/quinngoldstein/quinngoldstein.github.io
+        description: |
+          Used GitHub and open source code to create resume website with
+          HTML, CSS.
+      - layout: left
         title: Seattle U ACM Hacking War Chess
         sub_title: Variation on classic chess
         additional_links:
@@ -154,85 +232,6 @@ content:
           We used Java to develop War Chess, a variation on chess with landscapes on a
           larger board. I handled some of the logic design for the pieces as
           well as basic asset design for the UI.
-      - layout: left
-        title: Resume Website
-        # link: https://github.com/quinngoldstein/quinngoldstein.github.io
-        # link_text: GitHub Repository
-        additional_links:
-          - title: GitHub page for project
-            icon: fab fa-github
-            url: https://github.com/quinngoldstein/quinngoldstein.github.io
-        description: |
-          Used GitHub and open source code to create resume website with
-          HTML, CSS.
-      - layout: left
-        title: Scorigami Calculator
-        sub_title: Calculator for NFL scores
-        # link: https://github.com/quinngoldstein/ScorigamiCalculator
-        # link_text: GitHub Repository
-        additional_links:
-          - title: GitHub page for project
-            icon: fab fa-github
-            url: https://github.com/quinngoldstein/ScorigamiCalculator
-        caption: >
-          November 2021
-        description: |
-          This Python application is a calculator to calculate what kind 
-          of scoring would be necessary or NFL scoring since American football 
-          uses an odd scoring system. This was inspired by Scorigami, which you 
-          can check out [here](https://nflscorigami.com/), or reach out to me!
-          The concept of Scorigami is something I am very interested in, 
-          along with other sport statistics.
-      - layout: left
-        title: Movie Database Application
-        sub_title: Database for movie information
-        caption: >
-          January - March 2022
-        description: |
-          Working with a partner for a database class, we developed a database using MySQL and
-          an application for the database that allows users to search for movies
-          on specific streaming services. I came up with this idea after having the
-          recurring issue of not knowing what to watch on Netflix, Hulu, and other
-          streaming sites, so I hoped to remedy the problem by designing this app
-          for a course at Seattle University. For the web app, we used PHP, HTML, 
-          and CSS to design the webpage and add some base functionality for the project. 
-          The web application is no longer active on the university server, but I
-          have the source code for future reference.
-      - layout: left
-        title: Machine Learning Project
-        sub_title: Prediction for housing data in King County, WA
-        additional_links:
-          - title: GitHub page for project
-            icon: fab fa-github
-            url: https://github.com/quinngoldstein/CPSC4310-MLP
-        caption: >
-          April - June 2022
-        description: |
-          With a partner, we created a model for machine learning to predict housing prices
-          of homes in King County, Washington. Using a dataset on home prices in
-          Washington's King County, we trained a machine learning model to predict whether the
-          price of a given home would be above or below a price threshold. We used various ML
-          algorithms like k-nearest neighbor and the random forest classifier. This was done
-          using Python in Jupyter Notebook and various libraries like pandas, numpy, scikit,
-          and tensorflow. The GitHub repository linked contains notebooks of training the model
-          and the analyses my partner and I completed.
-      - layout: left
-        title: UX Design Project
-        sub_title: Study room reservations application mockup
-        additional_links:
-          - title: Figma page
-            icon: fab fa-figma
-            url: https://www.figma.com/proto/5Kl0lbRF8aWW8iSYR6kSdZ/TP8%3A-High-fidelity-prototype?node-id=115-973&starting-point-node-id=123%3A1047
-        caption: >
-          September - December 2022
-        description: |
-          Working in a group of four, my team used Figma to develop a prototype of a mobile app
-          for Seattle University students to reserve study rooms on campus. The idea came about
-          when one of my team members wanted to study in the library but found that no rooms were
-          open. We designed the application interface from the ground up, down to the fonts and
-          color palette. I enjoyed working with Figma and liked learning about the design process
-          needed before a product goes to software engineers. The link on the left takes you to
-          the interactive prototype of this application via Figma. 
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs

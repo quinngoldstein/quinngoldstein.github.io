@@ -73,7 +73,7 @@ content:
           I have primarily worked with C++ and C# in these courses. I also have some experience with
           Python and have worked with machine learning models using Python's scikit module.
           I plan to complete my coursework with machine learning by summer 2022.
-          My cumulative GPA is 3.85.
+          My cumulative GPA is 3.831.
   - title: Work Experience
     layout: list
     content:
@@ -81,7 +81,7 @@ content:
         title: Seattle University
         sub_title: Student Grader
         caption: |
-          March 2023 - June 2023
+          March 2023 - June 2023,
           Seattle, WA
         description: | # this will include new lines to allow paragraphs
           In my final quarter at Seattle University, I took on a position of being a grader for CPSC 3200,
@@ -93,7 +93,7 @@ content:
         title: Expedia Group
         sub_title: UX Engineering Intern
         caption: |
-          June 2022 - August 2022
+          June 2022 - August 2022,
           Seattle, WA
         description: | # this will include new lines to allow paragraphs
           Following my junior year, I interned with Expedia Group as a software development engineering
@@ -107,7 +107,7 @@ content:
         title: The Children's House
         sub_title: Afternoon Assistant
         caption: | 
-          August 2020 - September 2021
+          August 2020 - September 2021,
           Pearl City, HI
         description: | # this will include new lines to allow paragraphs
           I worked at a school during the COVID-19 pandemic and was able to give back to my community
@@ -119,7 +119,7 @@ content:
         title: Honolulu Star-Advertiser
         sub_title: Special to the Star-Advertiser
         caption: |
-          October 2019 - March 2020
+          October 2019 - March 2020,
           Honolulu, HI, remote
         description: |
           I worked with the head local newspaper to compile statistics from college sports on a weekly basis.
@@ -132,21 +132,22 @@ content:
     content:
       - layout: left
         title: Seattle U ACM Hacking War Chess
+        sub_title: Variation on classic chess
         additional_links:
-          - title: Github page for project
+          - title: GitHub page for project
             icon: fab fa-github
             url: https://github.com/quinngoldstein/WarChess
         # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         # link_text: Link Text
         # additional_links:
-        #   - title:  Github page for project
+        #   - title:  GitHub page for project
         #     icon: fab fa-github
         #     url: https://github.com/quinngoldstein/WarChess
-        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   - title:  GitHub page for project (eg. sproogen/modern-resume-theme)
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         caption: >
-          Variation on classic chess
+          January 2021
         description: | # this will include new lines to allow paragraphs
           My group was challenged to create a variation of a board game for
           the spring 2021 hacking event with Seattle University's ACM.
@@ -156,24 +157,25 @@ content:
       - layout: left
         title: Resume Website
         # link: https://github.com/quinngoldstein/quinngoldstein.github.io
-        # link_text: Github Repository
+        # link_text: GitHub Repository
         additional_links:
-          - title: Github page for project
+          - title: GitHub page for project
             icon: fab fa-github
             url: https://github.com/quinngoldstein/quinngoldstein.github.io
         description: |
-          Used Github and open source code to create resume website with
+          Used GitHub and open source code to create resume website with
           HTML, CSS.
       - layout: left
         title: Scorigami Calculator
+        sub_title: Calculator for NFL scores
         # link: https://github.com/quinngoldstein/ScorigamiCalculator
-        # link_text: Github Repository
+        # link_text: GitHub Repository
         additional_links:
-          - title: Github page for project
+          - title: GitHub page for project
             icon: fab fa-github
             url: https://github.com/quinngoldstein/ScorigamiCalculator
         caption: >
-          Calculator for NFL scores
+          November 2021
         description: |
           This Python application is a calculator to calculate what kind 
           of scoring would be necessary or NFL scoring since American football 
@@ -183,10 +185,11 @@ content:
           along with other sport statistics.
       - layout: left
         title: Movie Database Application
+        sub_title: Database for movie information
         caption: >
-          Database for movie information
+          January - March 2022
         description: |
-          Working with a partner, we developed a database using MySQL and
+          Working with a partner for a database class, we developed a database using MySQL and
           an application for the database that allows users to search for movies
           on specific streaming services. I came up with this idea after having the
           recurring issue of not knowing what to watch on Netflix, Hulu, and other
@@ -197,12 +200,13 @@ content:
           have the source code for future reference.
       - layout: left
         title: Machine Learning Project
+        sub_title: Prediction for housing data in King County, WA
         additional_links:
-          - title: Github page for project
+          - title: GitHub page for project
             icon: fab fa-github
             url: https://github.com/quinngoldstein/CPSC4310-MLP
         caption: >
-          Prediction for housing data in King County, WA
+          April - June 2022
         description: |
           With a partner, we created a model for machine learning to predict housing prices
           of homes in King County, Washington. Using a dataset on home prices in
@@ -212,11 +216,29 @@ content:
           using Python in Jupyter Notebook and various libraries like pandas, numpy, scikit,
           and tensorflow. The GitHub repository linked contains notebooks of training the model
           and the analyses my partner and I completed.
+      - layout: left
+        title: UX Design Project
+        sub_title: Study room reservations application mockup
+        additional_links:
+          - title: Figma page
+            icon: images/figma.png
+            url: https://www.figma.com/proto/5Kl0lbRF8aWW8iSYR6kSdZ/TP8%3A-High-fidelity-prototype?node-id=115-973&starting-point-node-id=123%3A1047
+        caption: >
+          September - December 2022
+        description: |
+          Working in a group of four, my team used Figma to develop a prototype of a mobile app
+          for Seattle University students to reserve study rooms on campus. The idea came about
+          when one of my team members wanted to study in the library but found that no rooms were
+          open. We designed the application interface from the ground up, down to the fonts and
+          color palette. I enjoyed working with Figma and liked learning about the design process
+          needed before a product goes to software engineers. The link on the left takes you to
+          the interactive prototype of this application via Figma. 
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      The primary languages I have used in my education are **C++, C# and Python**. In my internship, I
-      have worked with **TypeScript, HTML, and CSS/SASS in React**. I am comfortable with the
+      The primary languages I have used in my education are **C++, C# and Python**. I also have some
+      experience with **Figma** from my coursework. In my internship, I have worked with
+      **TypeScript, HTML, and CSS/SASS in React**. I am comfortable with the
       **Microsoft Office** suite as well as the **Google applications**. In the workplace, I have used
       both Slack and Microsoft Teams for collaboration. I am a **quick learner** that can adapt to any
       situation and will rise to a challenge rather than back away from one. Other technical strengths

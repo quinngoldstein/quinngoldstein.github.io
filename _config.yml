@@ -221,7 +221,7 @@ content:
         sub_title: Study room reservations application mockup
         additional_links:
           - title: Figma page
-            icon: images/figma.png
+            icon: fab fa-figma
             url: https://www.figma.com/proto/5Kl0lbRF8aWW8iSYR6kSdZ/TP8%3A-High-fidelity-prototype?node-id=115-973&starting-point-node-id=123%3A1047
         caption: >
           September - December 2022

@@ -89,6 +89,19 @@ content:
           professor. These programs were written in C++ and C#. Working with a group of four other graders,
           we also considered adjustments to the professor's rubrics if we saw change necessary.
       - layout: left
+        title: Votegrity via Seattle University
+        sub_title: Software Development Capstone Course
+        caption: |
+          September 2022 - June 2023,
+          Seattle, WA
+        description: | # this will include new lines to allow paragraphs
+          As part of my senior year at Seattle University, I was part of a yearlong course to work on a
+          software development project in collaboration with a local start up founded by a Seattle U alum.
+          Votegrity is a company that hosts elections both digitally and on paper for private groups like
+          homeowners' associations and workers' unions. My team was tasked with implementing new features
+          for voters' ease of access to their ballots. I plan to publish more information about this upon
+          completion of the project in June 2023, around my graduation date.
+      - layout: left
         title: Expedia Group
         sub_title: UX Engineering Intern
         caption: |

@@ -63,13 +63,13 @@ content:
     content:
       - layout: left
         title: Seattle University
-        sub_title: B.S. in Computer Science
+        sub_title: B.S. in Computer Science, Magna Cum Laude
         caption: September 2019 - June 2023
         description: | # this will include new lines to allow paragraphs
           I am a member of Seattle U's Hui O Nani Hawaii Club and its ACM Club. In my course work,
           I have studied data structures, databases, object-oriented programming and design, machine learning,
           UX design, cyber security concepts, and artificial intelligence. As part of my senior year,
-          I am currently working on a project with a Seattle-based start up company. More information on
+          I worked on a project with a Seattle-based start up company. More information on
           that can be found below, or you can reach out to me.
           I have primarily worked with C++, C#, and Python in these courses.
           My cumulative GPA is 3.834.
@@ -99,8 +99,10 @@ content:
           software development project in collaboration with a local start up founded by a Seattle U alum.
           Votegrity is a company that hosts elections both digitally and on paper for private groups like
           homeowners' associations and workers' unions. My team was tasked with implementing new features
-          for voters' ease of access to their ballots. I plan to publish more information about this upon
-          completion of the project in June 2023, around my graduation date.
+          for voters' ease of access to their ballots. We added unique tokenized links for users to bypass
+          the manual login process and implemented text notifications for both ballot openings and for election
+          results. My team was proud of our work and I am happy to say that our code was moved into production
+          upon handoff with the company.
       - layout: left
         title: Expedia Group
         sub_title: UX Engineering Intern
@@ -150,7 +152,7 @@ content:
             icon: fab fa-figma
             url: https://www.figma.com/proto/5Kl0lbRF8aWW8iSYR6kSdZ/TP8%3A-High-fidelity-prototype?node-id=115-973&starting-point-node-id=123%3A1047
         caption: >
-          September - December 2022
+          September 2022 - December 2022
         description: |
           Working in a group of four, my team used Figma to develop a prototype of a mobile app
           for Seattle University students to reserve study rooms on campus. The idea came about
@@ -167,7 +169,7 @@ content:
             icon: fab fa-github
             url: https://github.com/quinngoldstein/CPSC4310-MLP
         caption: >
-          April - June 2022
+          April 2022 - June 2022
         description: |
           With a partner, we created a model for machine learning to predict housing prices
           of homes in King County, Washington. Using a dataset on home prices in
@@ -181,7 +183,7 @@ content:
         title: Movie Database Application
         sub_title: Database for movie information
         caption: >
-          January - March 2022
+          January 2022 - March 2022
         description: |
           Working with a partner for a database class, we developed a database using MySQL and
           an application for the database that allows users to search for movies
